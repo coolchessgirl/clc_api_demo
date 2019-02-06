@@ -1,0 +1,281 @@
+Express server started on port: 11736
+{ url: 'https://ion.tjhsst.edu/api/schedule/2019-02-06?format=json',
+  date: '2019-02-06',
+  day_type:
+   { name: 'Red Day',
+     special: false,
+     blocks:
+      [ [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object] ] } }
+{ name: 'Red Day',
+  special: false,
+  blocks:
+   [ { order: 1, name: 'Period 5', start: '8:40', end: '10:15' },
+     { order: 2, name: 'Period 6', start: '10:25', end: '12:00' },
+     { order: 3, name: 'Lunch', start: '12:00', end: '12:40' },
+     { order: 4, name: 'Period 7', start: '12:40', end: '14:15' },
+     { order: 5, name: 'Break', start: '14:15', end: '14:30' },
+     { order: 6, name: '8A', start: '14:30', end: '15:10' },
+     { order: 7, name: '8B', start: '15:20', end: '16:00' } ] }
+[ { order: 1, name: 'Period 5', start: '8:40', end: '10:15' },
+  { order: 2, name: 'Period 6', start: '10:25', end: '12:00' },
+  { order: 3, name: 'Lunch', start: '12:00', end: '12:40' },
+  { order: 4, name: 'Period 7', start: '12:40', end: '14:15' },
+  { order: 5, name: 'Break', start: '14:15', end: '14:30' },
+  { order: 6, name: '8A', start: '14:30', end: '15:10' },
+  { order: 7, name: '8B', start: '15:20', end: '16:00' } ]
+{ order: 1, name: 'Period 5', start: '8:40', end: '10:15' }
+Period 5
+Red Day
+2019-02-06
+false
+{ url: 'https://ion.tjhsst.edu/api/schedule/2019-02-06?format=json',
+  date: '2019-02-06',
+  day_type:
+   { name: 'Red Day',
+     special: false,
+     blocks:
+      [ [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object] ] } }
+{ name: 'Red Day',
+  special: false,
+  blocks:
+   [ { order: 1, name: 'Period 5', start: '8:40', end: '10:15' },
+     { order: 2, name: 'Period 6', start: '10:25', end: '12:00' },
+     { order: 3, name: 'Lunch', start: '12:00', end: '12:40' },
+     { order: 4, name: 'Period 7', start: '12:40', end: '14:15' },
+     { order: 5, name: 'Break', start: '14:15', end: '14:30' },
+     { order: 6, name: '8A', start: '14:30', end: '15:10' },
+     { order: 7, name: '8B', start: '15:20', end: '16:00' } ] }
+[ { order: 1, name: 'Period 5', start: '8:40', end: '10:15' },
+  { order: 2, name: 'Period 6', start: '10:25', end: '12:00' },
+  { order: 3, name: 'Lunch', start: '12:00', end: '12:40' },
+  { order: 4, name: 'Period 7', start: '12:40', end: '14:15' },
+  { order: 5, name: 'Break', start: '14:15', end: '14:30' },
+  { order: 6, name: '8A', start: '14:30', end: '15:10' },
+  { order: 7, name: '8B', start: '15:20', end: '16:00' } ]
+{ order: 1, name: 'Period 5', start: '8:40', end: '10:15' }
+Period 5
+Red Day
+2019-02-06
+false
+{ url: 'https://ion.tjhsst.edu/api/schedule/2019-02-06?format=json',
+  date: '2019-02-06',
+  day_type:
+   { name: 'Red Day',
+     special: false,
+     blocks:
+      [ [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object] ] } }
+{ name: 'Red Day',
+  special: false,
+  blocks:
+   [ { order: 1, name: 'Period 5', start: '8:40', end: '10:15' },
+     { order: 2, name: 'Period 6', start: '10:25', end: '12:00' },
+     { order: 3, name: 'Lunch', start: '12:00', end: '12:40' },
+     { order: 4, name: 'Period 7', start: '12:40', end: '14:15' },
+     { order: 5, name: 'Break', start: '14:15', end: '14:30' },
+     { order: 6, name: '8A', start: '14:30', end: '15:10' },
+     { order: 7, name: '8B', start: '15:20', end: '16:00' } ] }
+[ { order: 1, name: 'Period 5', start: '8:40', end: '10:15' },
+  { order: 2, name: 'Period 6', start: '10:25', end: '12:00' },
+  { order: 3, name: 'Lunch', start: '12:00', end: '12:40' },
+  { order: 4, name: 'Period 7', start: '12:40', end: '14:15' },
+  { order: 5, name: 'Break', start: '14:15', end: '14:30' },
+  { order: 6, name: '8A', start: '14:30', end: '15:10' },
+  { order: 7, name: '8B', start: '15:20', end: '16:00' } ]
+{ order: 1, name: 'Period 5', start: '8:40', end: '10:15' }
+Period 5
+Red Day
+2019-02-06
+false
+{ url: 'https://ion.tjhsst.edu/api/schedule/2019-02-06?format=json',
+  date: '2019-02-06',
+  day_type:
+   { name: 'Red Day',
+     special: false,
+     blocks:
+      [ [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object] ] } }
+{ name: 'Red Day',
+  special: false,
+  blocks:
+   [ { order: 1, name: 'Period 5', start: '8:40', end: '10:15' },
+     { order: 2, name: 'Period 6', start: '10:25', end: '12:00' },
+     { order: 3, name: 'Lunch', start: '12:00', end: '12:40' },
+     { order: 4, name: 'Period 7', start: '12:40', end: '14:15' },
+     { order: 5, name: 'Break', start: '14:15', end: '14:30' },
+     { order: 6, name: '8A', start: '14:30', end: '15:10' },
+     { order: 7, name: '8B', start: '15:20', end: '16:00' } ] }
+[ { order: 1, name: 'Period 5', start: '8:40', end: '10:15' },
+  { order: 2, name: 'Period 6', start: '10:25', end: '12:00' },
+  { order: 3, name: 'Lunch', start: '12:00', end: '12:40' },
+  { order: 4, name: 'Period 7', start: '12:40', end: '14:15' },
+  { order: 5, name: 'Break', start: '14:15', end: '14:30' },
+  { order: 6, name: '8A', start: '14:30', end: '15:10' },
+  { order: 7, name: '8B', start: '15:20', end: '16:00' } ]
+{ order: 1, name: 'Period 5', start: '8:40', end: '10:15' }
+Period 5
+Red Day
+2019-02-06
+false
+{ url: 'https://ion.tjhsst.edu/api/schedule/2019-02-06?format=json',
+  date: '2019-02-06',
+  day_type:
+   { name: 'Red Day',
+     special: false,
+     blocks:
+      [ [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object] ] } }
+{ name: 'Red Day',
+  special: false,
+  blocks:
+   [ { order: 1, name: 'Period 5', start: '8:40', end: '10:15' },
+     { order: 2, name: 'Period 6', start: '10:25', end: '12:00' },
+     { order: 3, name: 'Lunch', start: '12:00', end: '12:40' },
+     { order: 4, name: 'Period 7', start: '12:40', end: '14:15' },
+     { order: 5, name: 'Break', start: '14:15', end: '14:30' },
+     { order: 6, name: '8A', start: '14:30', end: '15:10' },
+     { order: 7, name: '8B', start: '15:20', end: '16:00' } ] }
+[ { order: 1, name: 'Period 5', start: '8:40', end: '10:15' },
+  { order: 2, name: 'Period 6', start: '10:25', end: '12:00' },
+  { order: 3, name: 'Lunch', start: '12:00', end: '12:40' },
+  { order: 4, name: 'Period 7', start: '12:40', end: '14:15' },
+  { order: 5, name: 'Break', start: '14:15', end: '14:30' },
+  { order: 6, name: '8A', start: '14:30', end: '15:10' },
+  { order: 7, name: '8B', start: '15:20', end: '16:00' } ]
+{ order: 1, name: 'Period 5', start: '8:40', end: '10:15' }
+Period 5
+Red Day
+2019-02-06
+false
+{ url: 'https://ion.tjhsst.edu/api/schedule/2019-02-06?format=json',
+  date: '2019-02-06',
+  day_type:
+   { name: 'Red Day',
+     special: false,
+     blocks:
+      [ [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object] ] } }
+{ name: 'Red Day',
+  special: false,
+  blocks:
+   [ { order: 1, name: 'Period 5', start: '8:40', end: '10:15' },
+     { order: 2, name: 'Period 6', start: '10:25', end: '12:00' },
+     { order: 3, name: 'Lunch', start: '12:00', end: '12:40' },
+     { order: 4, name: 'Period 7', start: '12:40', end: '14:15' },
+     { order: 5, name: 'Break', start: '14:15', end: '14:30' },
+     { order: 6, name: '8A', start: '14:30', end: '15:10' },
+     { order: 7, name: '8B', start: '15:20', end: '16:00' } ] }
+[ { order: 1, name: 'Period 5', start: '8:40', end: '10:15' },
+  { order: 2, name: 'Period 6', start: '10:25', end: '12:00' },
+  { order: 3, name: 'Lunch', start: '12:00', end: '12:40' },
+  { order: 4, name: 'Period 7', start: '12:40', end: '14:15' },
+  { order: 5, name: 'Break', start: '14:15', end: '14:30' },
+  { order: 6, name: '8A', start: '14:30', end: '15:10' },
+  { order: 7, name: '8B', start: '15:20', end: '16:00' } ]
+{ order: 1, name: 'Period 5', start: '8:40', end: '10:15' }
+Period 5
+Red Day
+2019-02-06
+false
+{ url: 'https://ion.tjhsst.edu/api/schedule/2019-02-06?format=json',
+  date: '2019-02-06',
+  day_type:
+   { name: 'Red Day',
+     special: false,
+     blocks:
+      [ [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object] ] } }
+{ name: 'Red Day',
+  special: false,
+  blocks:
+   [ { order: 1, name: 'Period 5', start: '8:40', end: '10:15' },
+     { order: 2, name: 'Period 6', start: '10:25', end: '12:00' },
+     { order: 3, name: 'Lunch', start: '12:00', end: '12:40' },
+     { order: 4, name: 'Period 7', start: '12:40', end: '14:15' },
+     { order: 5, name: 'Break', start: '14:15', end: '14:30' },
+     { order: 6, name: '8A', start: '14:30', end: '15:10' },
+     { order: 7, name: '8B', start: '15:20', end: '16:00' } ] }
+[ { order: 1, name: 'Period 5', start: '8:40', end: '10:15' },
+  { order: 2, name: 'Period 6', start: '10:25', end: '12:00' },
+  { order: 3, name: 'Lunch', start: '12:00', end: '12:40' },
+  { order: 4, name: 'Period 7', start: '12:40', end: '14:15' },
+  { order: 5, name: 'Break', start: '14:15', end: '14:30' },
+  { order: 6, name: '8A', start: '14:30', end: '15:10' },
+  { order: 7, name: '8B', start: '15:20', end: '16:00' } ]
+{ order: 1, name: 'Period 5', start: '8:40', end: '10:15' }
+Period 5
+Red Day
+2019-02-06
+false
+{ url: 'https://ion.tjhsst.edu/api/schedule/2019-02-06?format=json',
+  date: '2019-02-06',
+  day_type:
+   { name: 'Red Day',
+     special: false,
+     blocks:
+      [ [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object] ] } }
+{ name: 'Red Day',
+  special: false,
+  blocks:
+   [ { order: 1, name: 'Period 5', start: '8:40', end: '10:15' },
+     { order: 2, name: 'Period 6', start: '10:25', end: '12:00' },
+     { order: 3, name: 'Lunch', start: '12:00', end: '12:40' },
+     { order: 4, name: 'Period 7', start: '12:40', end: '14:15' },
+     { order: 5, name: 'Break', start: '14:15', end: '14:30' },
+     { order: 6, name: '8A', start: '14:30', end: '15:10' },
+     { order: 7, name: '8B', start: '15:20', end: '16:00' } ] }
+[ { order: 1, name: 'Period 5', start: '8:40', end: '10:15' },
+  { order: 2, name: 'Period 6', start: '10:25', end: '12:00' },
+  { order: 3, name: 'Lunch', start: '12:00', end: '12:40' },
+  { order: 4, name: 'Period 7', start: '12:40', end: '14:15' },
+  { order: 5, name: 'Break', start: '14:15', end: '14:30' },
+  { order: 6, name: '8A', start: '14:30', end: '15:10' },
+  { order: 7, name: '8B', start: '15:20', end: '16:00' } ]
+{ order: 1, name: 'Period 5', start: '8:40', end: '10:15' }
+Period 5
+Red Day
+2019-02-06
+false
